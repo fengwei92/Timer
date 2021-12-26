@@ -1,4 +1,4 @@
-jdk
+jdk:
  - openjdk11
 
 install
