@@ -1,6 +1,2 @@
 jdk:
  - openjdk11
-
-install:
- - ./gradle :timer_lib:build :timer_lib:publishToMavenLocal
- - find . -name "*.aar"
